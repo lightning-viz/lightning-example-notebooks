@@ -12,6 +12,7 @@ example iPython notebooks showing how to generate [lightning visualizations](htt
 * [Line stacked](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/plots/linestacked.ipynb)
 * [Force](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/plots/force.ipynb)
 * [Graph](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/plots/graph.ipynb)
+* [Matrix](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/plots/matrix.ipynb)
 
 ### Images
 

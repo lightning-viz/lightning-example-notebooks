@@ -9,5 +9,11 @@ example iPython notebooks showing how to generate [lightning visualizations](htt
 
 * [Scatter](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/plots/scatter.ipynb)
 * [Line](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/plots/line.ipynb)
-* [Line Stacked](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/plots/linestacked.ipynb)
+* [Line stacked](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/plots/linestacked.ipynb)
 * [Force](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/plots/force.ipynb)
+* [Graph](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/plots/graph.ipynb)
+
+### Images
+
+* [Image and gallery](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/plots/images.ipynb)
+

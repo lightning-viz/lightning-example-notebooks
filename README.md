@@ -16,5 +16,5 @@ example iPython notebooks showing how to generate [lightning visualizations](htt
 
 ### Images
 
-* [Image and gallery](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/plots/images.ipynb)
+* [Image and gallery](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/images/images.ipynb)
 

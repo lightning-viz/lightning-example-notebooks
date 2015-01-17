@@ -18,3 +18,7 @@ example iPython notebooks showing how to generate [lightning visualizations](htt
 
 * [Image and gallery](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/images/images.ipynb)
 
+### 3D
+
+* [Scatter3](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/3D/scatter3.ipynb)
+* [Volume](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/3D/volume.ipynb)

@@ -3,7 +3,7 @@ Lightning example notebooks
 
 Example Jupyter notebooks showing how to generate [lightning visualizations](http://lightning-viz.github.io/) using the [python client](http://lightning-viz.github.io/lightning-python/)
 
-## Example Notebooks
+## Example Notebooks (Python)
 
 ### Plots
 
@@ -27,3 +27,6 @@ Example Jupyter notebooks showing how to generate [lightning visualizations](htt
 * [Scatter3](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/3D/scatter3.ipynb)
 * [Volume](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/3D/volume.ipynb)
 
+## Example Notebooks (Scala)
+
+* [GraphX](http://nbviewer.ipython.org/github/lightning-viz/lightning-example-notebooks/blob/master/scala/graphx.ipynb)

@@ -1,2 +1,4 @@
 lightning-python
 seaborn
+networkx
+sklearn

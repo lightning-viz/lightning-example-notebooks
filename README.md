@@ -1,3 +1,5 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/lightning-viz/lightning-example-notebooks)
+
 Lightning example notebooks
 ================================
 

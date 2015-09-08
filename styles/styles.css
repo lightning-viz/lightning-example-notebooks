@@ -21,20 +21,21 @@ body, p {
 
 .thumbnail {
 	float: left;
-	width: 100%;
-	height: 100%;
+	width: 66%;
+	height: 66%;
 	margin-right: 10px;
-	margin-bottom: 10px;
 	-web-kit-shadow: None !important;
 	box-shadow: None !important;
+  margin-bottom: 0px;
 }
 
 .test {
     float: left;
     position: relative;
-    width:28%;
+    width:21%;
     height:100%;
     margin-right: 20px;
+    margin-bottom: 18px;
 }
 .test img {
     float: left;
@@ -43,11 +44,12 @@ body, p {
 }
 .test:after {
     font-size: 40px;
+    line-height: 1.1em;
     text-align: center;
     content: attr(data-content);
     color:#fff;
     position: absolute;
-    width:100%; height:66%;
+    width:100%; height:100%;
     top:0px; left:0px;
     background:rgba(0,0,0,0.6);
     opacity:0;

@@ -1,7 +1,7 @@
 Lightning example notebooks
 ================================
 
-Example Jupyter notebooks showing how to generate [lightning visualizations](http://lightning-viz.github.io/) using the [python client](http://lightning-viz.github.io/lightning-python/)
+Example Jupyter notebooks showing how to generate [lightning visualizations](http://lightning-viz.org/) using the [python client](http://lightning-viz.org/lightning-python/)
 
 Launch the Binder to view interactive versions!
 
